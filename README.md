@@ -1,2 +1,2 @@
 # lombok-performance
-An analysis of performance with Lombok Java library
+An analysis of performance between all argument constructor and builder with Lombok Java library.
